@@ -7,7 +7,7 @@ CCRM is a comprehensive Java-based College Course Registration Management System
 ## Project Structure
 
 ```
-VITyarthi-Project/
+CCRM
 ├── README.md                 # This file
 ├── src/                      # Source code
 │   └── edu/ccrm/
